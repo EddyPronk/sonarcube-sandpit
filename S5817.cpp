@@ -1,7 +1,8 @@
 class A {
-    void f();
+    static void f();
 };
 
 void A::f()
 {
+    // intentionally left empty
 }
