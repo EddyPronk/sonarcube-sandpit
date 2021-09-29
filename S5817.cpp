@@ -1,6 +1,4 @@
-class A {
-    static void f();
-};
+#include "S5817.h"
 
 void A::f()
 {
