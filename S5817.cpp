@@ -8,3 +8,4 @@ void A::f()
 }
 
 // trigger build
+//
