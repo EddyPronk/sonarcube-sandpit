@@ -6,3 +6,5 @@ void A::f()
 {
     // intentionally left empty
 }
+
+// trigger build
